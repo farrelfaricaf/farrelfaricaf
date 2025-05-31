@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_UNIQUE_BANNER_URL_HERE_-_Maybe_a_cool_abstract_design_or_a_personal_logo?]" alt="Welcome to Farrel's Creative Hub!" width="850"/>
+  <img src="cover-banner.png" alt="Welcome to Farrel's Creative Hub!" width="850"/>
   </p>
 
 ## Hey there, I'm Farrel Farica Firjaturazza! 👋 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px"> I'm an **Information Systems Explorer** from **Universitas Negeri Surabaya**, currently navigating the fascinating landscapes where **Data tells stories 📊, Design creates experiences 🎨, and Machines learn to think 🧠.**
