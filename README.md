@@ -60,9 +60,28 @@ I'm on the lookout for exciting **Data Science quests** and **UI/UX design exped
 ### 🌟 My Hall of Fame (Featured Projects)
 
 <p align="center">
-  <i>My project gallery is currently under construction 🏗️...<br>
-  I'm polishing some exciting exhibits and will unveil them here soon. Stay tuned!</i>
-</p>
+  <a href="https://github.com/farrelfaricaf/payroll-system-database" target="_blank">
+    <img src="https://github.com/farrelfaricaf/payroll-system-database/blob/main/PDM_Payroll.jpg?raw=true" alt="Payroll System Database Diagram" width="750"/>
+  </a>
+  <br>
+  <br>
+  <b>Payroll System Database (UTS Project)</b>
+  <br>
+  <i>Project database (UTS) for payroll systems. Focus on normalization, 15 nested queries, and query performance testing on large datasets (10, 100, 1k, 10k rows) using PostgreSQL.</i>
+  <br>
+  </p>
+
+<p align="center">
+  <a href="https://github.com/farrelfaricaf/project-greenray" target="_blank">
+    <img src="https://raw.githubusercontent.com/farrelfaricaf/project-greenray/main/img/preview.png" alt="Project Greenray Website" width="750"/>
+  </a>
+  <br>
+  <br>
+  <b>Project Greenray - Website Jasa Panel Surya (UTS/UAS Project)</b>
+  <br>
+  <i>The GreenRay project is a user interface (UI/UX) implementation for a company providing Solar Power Plant (SPP) solutions in Indonesia. The main focus of this project is to provide in-depth information about SPP services and offer interactive tools to attract prospects.</i>
+  <br>
+  </p>
 
 ---
 
